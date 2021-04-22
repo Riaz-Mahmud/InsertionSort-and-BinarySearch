@@ -80,7 +80,7 @@ int main()
 	if(getValue == -1){
         cout<<"Not found"<<endl;
 	}else{
-	    cout<<"Found"<<endl;
+	    cout<<"Found at position: "<<getValue+1<<endl;
 	}
 
 
